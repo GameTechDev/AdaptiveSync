@@ -16,12 +16,12 @@ Within the command prompt, nasssvigate to the root of the adaptive sync project 
 
 If this is successful, all dll's from the IGCC will be gathered and placed into the project. 
 
-Once the command has finished, you can now run the demo located at "adaptive-sync-demo\AdaptiveSyncDemo\src\bin\x64\Release\D3D12Fullscreen.exe"
+Once the command has finished, you can now run the demo located at "AdaptiveSync\AdaptiveSyncDemo\src\bin\x64\Release\D3D12Fullscreen.exe"
 
-The complete adaptive sync library will be compiled into "adaptive-sync-demo\AdaptiveSyncLib\Complete Library" including all dll, lib, and ehader files to implement the library into your project.
+The complete adaptive sync library will be compiled into "AdaptiveSync\AdaptiveSyncLib\Complete Library" including all dll, lib, and header files to implement the library into your project.
 
 
-Known configurations:
+Known working configurations:
 Machine: Icelake
 Visual Studio: 2019 Preview 
 

@@ -1,7 +1,7 @@
 # Adaptive Sync Demo
 ![Adaptive Sync GUI](image.PNG)
 
-This project illustrates how to implement Intels Adaptive Sync capability in a Directx 12 application. More information can be found [here](https://wiki.ith.intel.com/display/hdmtdiagspxie/Adaptive+Sync)
+This project illustrates how to implement Intels Adaptive Sync capability in a Directx 12 application. More information can be found [here](https://software.intel.com/en-us/articles/enabling-intel-adaptive-sync-with-11th-generation-intel-processor-graphics-and-microsoft)
 
 It is recommended to build this library on a machine that has intel graphics.
 

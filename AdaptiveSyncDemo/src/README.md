@@ -1,3 +1,3 @@
 # Adaptive Sync Demo Demonstration 
-![Adaptive Sync GUI](AdaptiveDemoVideo.MP4)
+![Adaptive Sync GUI](AdaptiveDemoVideo.mp4)
 

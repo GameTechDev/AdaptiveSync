@@ -3,7 +3,7 @@
 
 This project illustrates how to implement Intels Adaptive Sync capability in a Directx 12 application. More information can be found [here](https://software.intel.com/en-us/articles/enabling-intel-adaptive-sync-with-11th-generation-intel-processor-graphics-and-microsoft)
 
-NOTE: The adaptive sync library is not needed in order to implement adaptive sync on intel graphics. The library gives you extended access/information about the users configuration. This library allows a game to determine if the user has an adaptive sync display, enable/disable adaptive sync directly from C++, query to see if adaptive sync is currently enabled, and query to see the maxiumum and minimum refresh rate of the display. When using this libray, it's important to check to see if the machine is using Intel graphics as done in D3D12FullScreen.cpp:
+NOTE: The adaptive sync library is not needed in order to implement adaptive sync on Intel graphics. The library gives you extended access/information about the users configuration. This library allows a game to determine if the user has an adaptive sync display, enable/disable adaptive sync directly from C++, query to see if adaptive sync is currently enabled, and query to see the maxiumum and minimum refresh rate of the display. When using this libray, it's important to check to see if the machine is using Intel graphics as done in D3D12FullScreen.cpp:
 ![Adaptive Sync GUI](CheckIntel.PNG)
 
 It is recommended to build this library on a machine that has intel graphics.
